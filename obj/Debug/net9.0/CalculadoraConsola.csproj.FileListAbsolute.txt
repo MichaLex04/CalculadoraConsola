@@ -1,0 +1,5 @@
+D:\Alumnos\Michael\CalculadoraConsola\obj\Debug\net9.0\CalculadoraConsola.GeneratedMSBuildEditorConfig.editorconfig
+D:\Alumnos\Michael\CalculadoraConsola\obj\Debug\net9.0\CalculadoraConsola.AssemblyInfoInputs.cache
+D:\Alumnos\Michael\CalculadoraConsola\obj\Debug\net9.0\CalculadoraConsola.AssemblyInfo.cs
+D:\Alumnos\Michael\CalculadoraConsola\obj\Debug\net9.0\CalculadoraConsola.csproj.CoreCompileInputs.cache
+D:\Alumnos\Michael\CalculadoraConsola\obj\Debug\net9.0\CalculadoraConsola.sourcelink.json
