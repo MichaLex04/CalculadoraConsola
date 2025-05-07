@@ -3,3 +3,13 @@ D:\Alumnos\Michael\CalculadoraConsola\obj\Debug\net9.0\CalculadoraConsola.Assemb
 D:\Alumnos\Michael\CalculadoraConsola\obj\Debug\net9.0\CalculadoraConsola.AssemblyInfo.cs
 D:\Alumnos\Michael\CalculadoraConsola\obj\Debug\net9.0\CalculadoraConsola.csproj.CoreCompileInputs.cache
 D:\Alumnos\Michael\CalculadoraConsola\obj\Debug\net9.0\CalculadoraConsola.sourcelink.json
+D:\Alumnos\Michael\CalculadoraConsola\bin\Debug\net9.0\CalculadoraConsola.exe
+D:\Alumnos\Michael\CalculadoraConsola\bin\Debug\net9.0\CalculadoraConsola.deps.json
+D:\Alumnos\Michael\CalculadoraConsola\bin\Debug\net9.0\CalculadoraConsola.runtimeconfig.json
+D:\Alumnos\Michael\CalculadoraConsola\bin\Debug\net9.0\CalculadoraConsola.dll
+D:\Alumnos\Michael\CalculadoraConsola\bin\Debug\net9.0\CalculadoraConsola.pdb
+D:\Alumnos\Michael\CalculadoraConsola\obj\Debug\net9.0\CalculadoraConsola.dll
+D:\Alumnos\Michael\CalculadoraConsola\obj\Debug\net9.0\refint\CalculadoraConsola.dll
+D:\Alumnos\Michael\CalculadoraConsola\obj\Debug\net9.0\CalculadoraConsola.pdb
+D:\Alumnos\Michael\CalculadoraConsola\obj\Debug\net9.0\CalculadoraConsola.genruntimeconfig.cache
+D:\Alumnos\Michael\CalculadoraConsola\obj\Debug\net9.0\ref\CalculadoraConsola.dll
